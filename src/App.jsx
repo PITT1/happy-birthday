@@ -16,7 +16,7 @@ function App() {
     <motion.main initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
       {!clicked && (
         <button onClick={hadleClick} className="button1">
-          cliquez sur moi :3
+          Cliqueame :3
         </button>
       )}
       {clicked && <HappyBirthday />}

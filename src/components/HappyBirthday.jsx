@@ -14,7 +14,7 @@ const HappyBirthday = () => {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
       >
-        joyeux anniversaire Darin!! :D
+        Feliz cumpleaños Doly!! :D
       </motion.h1>
       <motion.img
         transition={{ delay: 0.6, duration: 1 }}
@@ -28,8 +28,8 @@ const HappyBirthday = () => {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
       >
-        Celui qui vous a dit que vous vieillissiez est très confus. Tu te
-        bonifies comme le vin, tu es millésimé !
+        No cuentes tus años solamente, haz que tus años cuenten!! :D
+        gracias por todo, perdon por tan poco 
       </motion.h2>
     </motion.div>
   );
